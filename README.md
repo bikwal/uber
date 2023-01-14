@@ -1,6 +1,6 @@
 # uber
 Страница сайта компании Uber
-# <img src="img/header_readme.png" height="5%">
+# <img src="img/header_readme.png" height="250px">
 
 
 
